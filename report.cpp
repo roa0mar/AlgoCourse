@@ -10,4 +10,4 @@ Steps to Connect a Local Repository to GitHub:
 
 GitHub Repository Link :
 
-https://github.com/roa0mar/algorithimsCourse.git
+https://github.com/roa0mar/AlgoCourse.git
