@@ -7,7 +7,3 @@ Steps to Connect a Local Repository to GitHub:
 5. link the local repository to GitHub:
    A- copy repository URL from gitHub
    B- git remote add origin repository URL
-
-GitHub Repository Link :
-
-https://github.com/roa0mar/algorithimsCourse.git
